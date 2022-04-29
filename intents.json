@@ -1,0 +1,20 @@
+{"intents":[
+    {"tag": "saludos",
+     "patterns": ["hola", "holaaa", "hey", "¿que fue?", "que fue?", "que fue mano?", "buenos dias"],
+     "responses": ["Tu nariz entre mis bolas", "Hola conero", "Ag esta chola se enamoró de mi"]},
+     {"tag": "qué",
+          "patterns": ["¿Para qué estás aquí?", "¿Que puedes hacer?", "¿Cuales son tus habilidades?", "¿Que fue mano?", ""],
+          "responses": ["Para ser como el Turry", "Me pincan los cocos"]},
+     {"tag": "edad",
+      "patterns": ["¿Cuantos años tienes?", "¿Cual es tu edad?"],
+      "respones": ["Fui creado ayer!"]},
+     {"tag": "nombre",
+          "patterns": ["¿Como te llamas?", "¿Cual es tu nombre?", "Como te llamas?", "como te llamas?", "Cual es tu nombre?", "cual es tu nombre?"],
+          "responses": ["Mi nombre es Bloodhound", "Me llamo Bloodhound"]},
+     {"tag": "chiste",
+          "patterns": ["Cuentame un chiste", "dime un chiste", "cuentame un chiste de comico ambulante"],
+          "responses": ["Habian 2 putas en una moto, una se cayó y era el harold"]}     
+
+]
+          
+}
